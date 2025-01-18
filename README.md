@@ -1,8 +1,8 @@
-Hi, my name is Awab Abedin
-I am interested in finding innovative solutions to contemporary problems through simple and effective code
-I am a Computer Science major, with a concentration in AI
-I am looking to collaborate on any sort of ML or AI projects
-Reach me at: abedinawab1@gmail.com
+Hi, my name is Awab Abedin.
+I want to find innovative solutions to contemporary problems through simple and effective code.
+I am a Computer Science major, with a concentration in AI.
+I am looking to collaborate on any ML or AI projects.
+Reach me at: abedinawab1@gmail.com.
 
 
 <!---
